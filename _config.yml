@@ -1,0 +1,14 @@
+layout_spectrum: 0.23551147361285985
+typography_spectrum: 0.28151297220028937
+color:
+  brandStrength: 0.6792666409164667
+  lightness: 0.13982517831027508
+  saturation: 0.07449247920885682
+  rhythmicContrast: 0.8795099048875272
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: Rantdog
